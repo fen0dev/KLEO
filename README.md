@@ -73,6 +73,6 @@ The script demonstrates a high level of sophistication due to its use of multipl
 These features indicate that the malware is designed to be resilient, difficult to detect, and capable of extensive control over an infected system, making it a powerful tool for malicious actors.
 
 # Considerations
-Please, use this piece of software for educational purposes only. Hacking is illegal and unethical. Do not harm anyone, instead have fun playing around with it in a virtual environment and get to learn cybersecurity better. 
+Please, use this piece of software for educational purposes only. Hacking is illegal and unethical. The writer of this malware (myself) assumes no responsibilities in case of misuse by anyone using it. Do not harm anybody, instead have fun playing around with it in a virtual environment and get to learn cybersecurity better. 
 
 As always, happy coding! :)
