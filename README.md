@@ -3,9 +3,9 @@
 
  # Detection & behavior 
 
- ![Example Image](/Users/mvh/Desktop/detection)
+ ![Example Image](/Users/mvh/Desktop/Malware/Kleo/KLEO/detection)
  
- ![Example Image](/Users/mvh/Desktop/detection)
+ ![Example Image](/Users/mvh/Desktop/Malware/Kleo/KLEO/behaviour)
 
 # Summary of Techniques and Sophistication
 
