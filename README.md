@@ -1,6 +1,12 @@
 # KLEO
  Advanced Python-built malware with sophisticated stealthy & obfuscated techniques.
 
+ # Detection & behavior 
+
+ ![Example Image](/Users/mvh/Desktop/detection)
+ 
+ ![Example Image](/Users/mvh/Desktop/detection)
+
 # Summary of Techniques and Sophistication
 
  1. Multi-layer Encoding/Decoding
