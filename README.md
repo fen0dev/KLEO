@@ -1,5 +1,5 @@
 # KLEO
- Advanced Python-built malware with sophisticated stealthy & obfuscated techniques.
+ Advanced Python-built malware with a combination of sophisticated stealthy techniques.
 
  # Detection & behavior 
 
@@ -12,7 +12,7 @@
  1. Multi-layer Encoding/Decoding
 
     Purpose: Obfuscation and concealment of critical data.
-    Techniques: Uses XOR encryption, Base64 encoding, and zlib compression to encode and decode data such as server IP, port, and other configuration details.
+    Techniques: Uses XOR encryption, Base64 encoding, AES, and zlib compression to encode and decode data such as server IP, port, and other configuration details.
     Impact: Makes reverse engineering and detection more difficult.
 
 2. Persistence Mechanisms
