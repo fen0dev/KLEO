@@ -1,5 +1,5 @@
 # KLEO
- Advanced Python-built malware with sophisticated techniques.
+ Advanced Python-built malware with sophisticated stealthy & obfuscated techniques.
 
 # Summary of Techniques and Sophistication
 
