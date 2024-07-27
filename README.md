@@ -7,7 +7,7 @@
  
  ![Example Image](files/behaviour.png)
 
-# Summary of Techniques and Sophistication
+# Summary of Techniques
 
  1. Multi-layer Encoding/Decoding
 
